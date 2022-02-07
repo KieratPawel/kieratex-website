@@ -19,6 +19,11 @@ html {
     clear: both;
 }
 
+body{
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
 /*SEKCJA HEADER*/
 
 header {
